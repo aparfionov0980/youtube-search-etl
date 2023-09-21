@@ -1,5 +1,6 @@
 logs/*
 .env
+.vscode
 dags/__pycache__
 dags/src/__pycache__
 dags/src/python/__pycache__
