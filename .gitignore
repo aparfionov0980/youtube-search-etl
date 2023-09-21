@@ -1,0 +1,7 @@
+logs/*
+.env
+dags/__pycache__
+dags/src/__pycache__
+dags/src/python/__pycache__
+dags/src/python/main/__pycache__
+dags/src/python/main/model/__pycache__
